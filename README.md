@@ -2,9 +2,6 @@
 ##  Olá! Eu sou o Carlos Alberto 🖖
 
 ![carllos-alberto GitHub stats](https://github-readme-stats.vercel.app/api?username=carllos-alberto&show_icons=true&theme=transparent) 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carllos-alberto&layout=compact&hide_border=true&title_color=ffftext_color=ff91a4&bg_color=0d1117"/>
- 
-
 
 <hr> 
 
