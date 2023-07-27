@@ -32,7 +32,7 @@
 
 <div style="width: 150px; display: inline_block">
   
-<a href="www.linkedin.com/in/carlosalbertodesenvolvedorfrontend">
+<a href="https://www.linkedin.com/in/carlosalbertodesenvolvedorfrontend">
   <img aling="center" alt="Carlos Alberto" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
 
 </a>
